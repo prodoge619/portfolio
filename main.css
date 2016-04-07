@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 6, 2016, 5:17:09 AM
+    Author     : prdog619
+*/
+ 
+* {
+    color: #FFD6E8;
+    
+    
+}
+body {
+    background-color: #820A3E;
+    color: #FFD6E8;
+    
+}
+header h1 {
+    font-size: 50px;
+    color: #FFD6E8;
+    background-color: #820A3E;
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-left: 10px;
+    font-family: 'Caveat', cursive;
+}
+
+header h2 {
+    font-size: 20px;
+    color: #FFD6E8;
+    background-color: #820A3E;
+    padding-left: 10px;
+    font-family: 'Caveat', cursive;
+    
+}
+
+nav ul {
+    list-style: none;
+    font-size: 23px;
+    float: right;
+    margin-top: 0px;
+    margin-left: 10px;
+    background-color: #F56FA9; 
+    padding: 10px;
+    font-family: cursive;
+    
+}
+
+nav li {
+    display: inline-block;
+   
+    
+    
+}
+
+footer {
+    float: bottom;
+    margin-bottom: 0px;
+    text-align: center;
+    margin-top: 560px;
+}
+a {
+    text-decoration: none;
+    
+}
+a:hover{
+    color: #DC0060;
+    
+}
+
+.active {
+    background-color: #92003F;
+    color: white;
+}
+
+div li {
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10px;
+    
+     
+    }
+div ul {
+    margin-top: 200px;
+        
+    }
